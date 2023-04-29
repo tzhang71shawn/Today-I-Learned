@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# An app that's used to keep record of pieces of knowledge with filtering function.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was used such technology, html, css, javascript and react.js.
 
 https://tianstodayilearned.netlify.app/
 
